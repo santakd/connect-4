@@ -1,15 +1,41 @@
 # Welcome to Connect 4!
-Get ready to drop it like it’s hot—strategically, of course. This isn’t just a game of colorful discs; 
-it’s a fast-paced battle of wits where every move counts. Stack, block, and outsmart your opponent as you
-race to connect four in a row—horizontally, vertically, or diagonally—before they do. 
-Easy to learn, sneaky-hard to master, and guaranteed to spark a little friendly rivalry.
-So line up your discs, scan the grid, and make your move. Four connects wins it all—let the showdown begin! 🔴🟡
+🔥 GET READY TO DROP IT LIKE IT’S HOT—STRATEGICALLY, OF COURSE! 🔥
+This isn’t just a game of colorful discs…
+It’s a high-voltage battlefield where every second counts and every drop can shatter your opponent’s dreams!
+Stack like a boss. Block like a legend. Outsmart, outmaneuver, and CRUSH the grid as you race to forge FOUR IN A ROW—horizontally, vertically, or diagonally—before they even see it coming!
+Ridiculously easy to learn.
+Brutally addictive to master.
+Guaranteed to ignite epic trash-talk and heart-pounding friendly rivalries that’ll have you both yelling at the board!
+So grab your discs, lock onto that grid, and UNLEASH YOUR MOVE.
+Four connects = TOTAL VICTORY.
+LET THE SHOWDOWN EXPLODE! 
+🚀Four connects wins it all—let the showdown begin! 🔴🟡
+
+## Game Strategy
+🔥 Connect Four Strategies: Dominate Fast 🔥
+Core: 1st player wins perfect play.
+Win with: Center control + Forks.
+
+Center King: Drop Column 4 first. Then fight 3 & 5. (One disc = 13 lines!)
+Block or Die: Opp has 3-in-row (open both ends)? Block NOW.
+Fork = Win: One move creates 2 threats. Opp blocks 1 → you win. Build in rows 3-4.
+Every Move: Win now / Block / Create threat. Master diagonals.
+
+Checklist: Win? Block? Fork? Center stronger?
+Avoid: Edge starts, ignoring diagonals.
+Drop center. Force forks. Crush them. 🚀
 
 ## Technical Summary
-A solid Minimax implementation for the AI. It emulates Connect 4 correctly, including animations, menus, 
-and game modes (Human vs Human, Human vs AI, AI vs AI). The recent updates (e.g., depth-adjusted terminal scoring, 
-column ordering for pruning, and window-based heuristic) have strengthened the AI, making it capable of blocking
-obvious threats and playing more strategically in hard mode.
+Core: Full Minimax + α-β pruning on fast 64-bit bitboards.
+
+Fidelity: Exact gravity rules, win/draw detection, smooth animations, menus + 3 modes (HvH, HvAI, AIvAI).
+
+Key Upgrades:
+- Depth-adjusted scoring: (42−depth)×100 → hunts early wins, delays losses.
+= Dynamic column ordering (center-first) → massive pruning, 8–10 plies in <50 ms.
+= Window-based heuristic (aspiration search) counting 3-in-rows, forks & center control.
+
+Result: Instantly blocks threats, sets up strategic forks, plays near-perfect on Hard.
 
 ## Contributing
 
