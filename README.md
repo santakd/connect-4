@@ -1,10 +1,13 @@
 # Welcome to Connect 4!
 🔥 GET READY TO DROP IT LIKE IT’S HOT—STRATEGICALLY, OF COURSE! 🔥
+
 This isn’t just a game of colorful discs…
 
 It’s a high-voltage battlefield where every second counts and every drop can shatter your opponent’s dreams!
 
-Stack like a boss. Block like a legend. Outsmart, outmaneuver, and CRUSH the grid as you race to forge FOUR IN A ROW—horizontally, vertically, or diagonally—before they even see it coming!
+Stack like a boss. Block like a legend. Outsmart, outmaneuver, and CRUSH the grid as you race to forge
+
+FOUR IN A ROW—horizontally, vertically, or diagonally—before they even see it coming!
 
 Ridiculously easy to learn.
 
@@ -13,6 +16,7 @@ Brutally addictive to master.
 Guaranteed to ignite epic trash-talk and heart-pounding friendly rivalries that’ll have you both yelling at the board!
 
 So grab your discs, lock onto that grid, and UNLEASH YOUR MOVE.
+
 Four connects = TOTAL VICTORY. LET THE SHOWDOWN EXPLODE!  🔴🟡
 
 
@@ -32,6 +36,8 @@ Drop center. Force forks. Crush them. 🚀
 Core: Full Minimax + α-β pruning on fast 64-bit bitboards.
 
 Fidelity: Exact gravity rules, win/draw detection, smooth animations, menus + 3 modes (HvH, HvAI, AIvAI).
+
+Modes: Human vs. Human (HvH), Human vs. AI (HvAI) and AI vs. AI (AIvAI).
 
 ### Key Upgrades:
 - Depth-adjusted scoring: (42−depth)×100 → hunts early wins, delays losses.
