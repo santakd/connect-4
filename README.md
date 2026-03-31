@@ -24,13 +24,13 @@ Four connects = TOTAL VICTORY. LET THE SHOWDOWN EXPLODE!  🔴🟡
 🔥 Connect Four Strategies: Dominate Fast 🔥
 Core: 1st player wins perfect play.
 - Win with: Center control + Forks.
-- Center King: Drop Column 4 first. Then fight 3 & 5. (One disc = 13 lines!)
+- Center King: Drop Column 4 first. Then fight 3 & 5. 
 - Block or Die: Opp has 3-in-row (open both ends)? Block NOW.
 - Fork = Win: One move creates 2 threats. Opp blocks 1 → you win. Build in rows 3-4.
 - Every Move: Win now / Block / Create threat. Master diagonals.
 - Checklist: Win? Block? Fork? Center stronger?
 - Avoid: Edge starts, ignoring diagonals.
-Drop center. Force forks. Crush them. 🚀
+- Drop center. Force forks. Crush them. 🚀
 
 ## Technical Summary
 Core: Full Minimax + α-β pruning on fast 64-bit bitboards.
