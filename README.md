@@ -9,9 +9,7 @@ Stack like a boss. Block like a legend. Outsmart, outmaneuver, and CRUSH the gri
 
 FOUR IN A ROW—horizontally, vertically, or diagonally—before they even see it coming!
 
-Ridiculously easy to learn.
-
-Brutally addictive to master.
+Ridiculously easy to learn. Brutally addictive to master.
 
 Guaranteed to ignite epic trash-talk and heart-pounding friendly rivalries that’ll have you both yelling at the board!
 
