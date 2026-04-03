@@ -44,6 +44,10 @@ Modes: Human vs. Human (HvH), Human vs. AI (HvAI) and AI vs. AI (AIvAI).
 
 Result: Instantly blocks threats, sets up strategic forks, plays near-perfect on Hard.
 
+## ⭐ Like it? Star it!
+
+If you find this project interesting, please give it a star — it helps others discover it too.
+
 ## Contributing
 
 Contributions are welcome. Suggested workflow:
