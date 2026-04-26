@@ -1,5 +1,10 @@
 # Welcome to Connect 4!
+
 🔥 GET READY TO DROP IT LIKE IT’S HOT—STRATEGICALLY, OF COURSE! 🔥
+
+![connect4](https://github.com/santakd/connect-4/blob/main/connect4.png)
+
+
 
 This isn’t just a game of colorful discs…
 
