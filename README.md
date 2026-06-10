@@ -5,7 +5,6 @@
 ![connect4](https://github.com/santakd/connect-4/blob/main/connect4.png)
 
 
-
 This isn’t just a game of colorful discs…
 
 It’s a high-voltage battlefield where every second counts and every drop can shatter your opponent’s dreams!
