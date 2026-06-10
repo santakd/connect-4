@@ -20,7 +20,7 @@ Guaranteed to ignite epic trash-talk and heart-pounding friendly rivalries that�
 
 So grab your discs, lock onto that grid, and UNLEASH YOUR MOVE.
 
-Four connects = TOTAL VICTORY. LET THE SHOWDOWN EXPLODE!  🔴🟡
+Four connects = TOTAL VICTORY. LET THE SHOWDOWN EXPLODE!  🔴🟡🔴🟡
 
 
 ## Game Strategy
